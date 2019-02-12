@@ -2,7 +2,7 @@ Goal - Get better in DS and algo, goal - paytm, amazon
        We will be using codechef in here ( to get better profile, will be using as main coding platform)
        Problems we pick up from - geeksforgeeks(https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
         , hackerearth (interview preparation)
-
+```
 1. Signup on codechef, https://www.codechef.com/
 
 2. We will start with covering basic topics
@@ -23,3 +23,4 @@ Goal - Get better in DS and algo, goal - paytm, amazon
 
 3. Design Patterns
 3. System Design
+```

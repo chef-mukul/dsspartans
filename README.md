@@ -10,7 +10,7 @@ Goal - Get better in DS and algo
 2.0 Asympotic Analysis, ADT, overview of coding platform
 2.1 Searching - Linear Search and Binary Search
 2.1 DS- Array, Stack , Queue
-2.2 problem solving - recursion, iteration
+2.2 problem solving - recursion, iteration, divide and conquer
 2.3 DS - LinkedList, Single/Double/Circular
 2.4 Sorting - Bubble, selection, insertion
 2.5 Sorting - Quick Sort and Merge Sort

@@ -1,4 +1,4 @@
-Goal - Get better in DS and algo, goal - paytm, amazon
+Goal - Get better in DS and algo
        We will be using codechef in here ( to get better profile, will be using as main coding platform)
        Problems we pick up from - geeksforgeeks(https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
         , hackerearth (interview preparation)

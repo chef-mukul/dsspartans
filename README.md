@@ -1,4 +1,4 @@
-Goal - Get better in DS and algo, goal - paytm, amazon
+Goal - Get better in DS and algo
        We will be using codechef in here ( to get better profile, will be using as main coding platform)
        Problems we pick up from - geeksforgeeks(https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
         , hackerearth (interview preparation)
@@ -10,7 +10,7 @@ Goal - Get better in DS and algo, goal - paytm, amazon
 2.0 Asympotic Analysis, ADT, overview of coding platform
 2.1 Searching - Linear Search and Binary Search
 2.1 DS- Array, Stack , Queue
-2.2 problem solving - recursion, iteration
+2.2 problem solving - recursion, iteration, divide and conquer
 2.3 DS - LinkedList, Single/Double/Circular
 2.4 Sorting - Bubble, selection, insertion
 2.5 Sorting - Quick Sort and Merge Sort
